@@ -1,6 +1,6 @@
 # SkyShadow
 
-**Исходный код сервера Shadow Fight 2 v1.9.35**
+**Исходный код сервера Shadow Fight 2 v1.9.26**
 
 - Выход исходного кода запланирован на 28.01.2025
 
@@ -19,7 +19,7 @@
 
 # SkyShadow: Eng. Edition.
 
-**Shadow Fight 2 v1.9.35 Server Source Code**
+**Shadow Fight 2 v1.9.26 Server Source Code**
 
 - Source code release is scheduled for 28.01.2025.
 
